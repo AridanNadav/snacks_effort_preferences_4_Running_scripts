@@ -1,0 +1,8 @@
+try
+AA_Screen_Set_n_Open
+runNUM=1;
+BB_VAS_test
+catch
+    sca
+end
+sca
